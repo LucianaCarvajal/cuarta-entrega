@@ -1,7 +1,7 @@
 # Cuarta Pre-Entrega Curso Ingenias Data Science 
 ## Integrantes:
 - Luciana Carvajal ([@LucianaCarvajal](https://github.com/LucianaCarvajal))
-- Leila Luna Ameneiro (https://github.com/L-Ameneiro)
+- Leila Luna Ameneiro ([@L-Ameneiro](https://github.com/L-Ameneiro))
 
 Objetivo: Aplicar un algoritmo de aprendizaje no supervisado para agrupar vinos según sus características químicas, específicamente su contenido de ácido cítrico y azúcar residual. 
 
